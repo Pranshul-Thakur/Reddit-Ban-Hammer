@@ -1,4 +1,4 @@
-Ban from your subreddit all of the users on the [UniversalScammerList](https://www.reddit.com/r/UniversalScammerList/wiki/banlist).
+Ban from your subreddit all of the users on the [UniversalScammerList](https://www.reddit.com/r/UniversalScammerList/wiki/banlist).  (still working on it)
 
 It uses Snoowrap library to fetch the name of users from Universal Scammer List and ban them on the desired subreddit
 
