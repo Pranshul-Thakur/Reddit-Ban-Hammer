@@ -1,6 +1,6 @@
 Ban from your subreddit all of the users on the [UniversalScammerList](https://www.reddit.com/r/UniversalScammerList/wiki/banlist).
 
-It uses Snoowrap library (Javasceript wrapper for reddit API) to fetch the name of users from Universal Scammer List and ban them on the desired subreddit
+It uses Snoowrap library (JavaScript wrapper for reddit API) to fetch the name of users from Universal Scammer List and ban them on the desired subreddit
 
 To use this script, you need to provide the necessary Reddit API credentials and fill in the subreddit field in the config.js file.
 
