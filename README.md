@@ -4,7 +4,7 @@ It uses Snoowrap library (JavaScript wrapper for reddit API) to fetch the name o
 
 To use this script, you need to provide the necessary Reddit API credentials and fill in the subreddit field in the config.js file.
 
-Future Plans are there to develop an app for this to make accesability and usage more easy
+Future Plans are there to develop an app for this to make accesability and usage more easy.
 
 # Setup
 
